@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(117, 202, 174); 
+    font-family: 'monospace';
+    font-weight: 120;
+};
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around; 
+    align-items:center; 
+    height: 50px;
+};
+footer{
+    display: flex;
+    justify-content: space-around; 
+    align-items:center ;
+    background-color: rgb(17, 159, 112); 
+    height: 50px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    };
+h2,h1{
+    font-weight: bold;
+};
+h2{
+    font-size: 200px;
+}
