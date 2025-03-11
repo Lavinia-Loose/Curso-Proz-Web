@@ -1,0 +1,1 @@
+Estou fazer um curso de programação com foco em Desenvolvimento Web, utilizando também a linguagem Python para o aprendizado de Lógica de Programação. Aqui estão alguns códigos feitos por mim para realizar atividades desse curso.
